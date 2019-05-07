@@ -1,2 +1,2 @@
 # Java-Tutorial
-A tutorial for beginners using python 2.7
+A Java tutorial for beginners using python 2.7
